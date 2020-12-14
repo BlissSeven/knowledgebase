@@ -2,7 +2,9 @@
 title: javascript
 ---
 
-## ```java<head>
+## ```java
+##
+<head>
 <script>
 alert("hello")
 </script>
