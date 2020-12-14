@@ -15,5 +15,5 @@ alert("hello")
 ```
 ##
 ```clojure
-  (println "Hello world!")
+
 ```
