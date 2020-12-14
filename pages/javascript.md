@@ -2,15 +2,16 @@
 title: javascript
 ---
 
-## ```java
-##
+## 
+```java
 <head>
 <script>
 alert("hello")
 </script>
 <script src="src/js/abc.js"/>
-</head>```
-## ```
+</head>
+```
+## 
 ##
 ```clojure
   (println "Hello world!")
