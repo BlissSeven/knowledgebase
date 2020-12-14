@@ -6,6 +6,7 @@ title: javascript
 ###
 ```java
 <head>
+<!-- 两种调用方式-->
 <script>
 alert("hello")
 </script>
