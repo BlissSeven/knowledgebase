@@ -2,7 +2,7 @@
 title: javascript
 ---
 
-##
+## 基本语法
 ## 
 ```java
 <head>
